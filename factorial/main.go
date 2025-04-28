@@ -8,7 +8,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello World from Gohuda")
+	fmt.Println("Hello World from Go")
 
 
 	reader, _ := bufio.NewReader(os.Stdin).ReadString('\n')
